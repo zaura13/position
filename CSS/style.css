@@ -1,0 +1,163 @@
+body{
+    background-color: #F6F8F9;
+
+}
+header{
+    background-color: #F6F8F9;
+    width: 100%;
+    padding: 20px 35px;
+    position: fixed;
+    top: 0;
+    z-index: 100;
+
+}
+.logo{
+    margin-left: 350px;
+}
+
+nav , .header_list , .nav_list{
+    display: inline-block;
+    
+}
+
+.logo ,.userphoto , .header_list{
+    vertical-align: middle;
+
+}
+
+.header_list{
+    margin-left: 130px;
+    
+}
+.nav_list{
+    margin-right: 60px;
+    
+}
+S
+.lisTXT{
+    font-size: 20px;
+    color: #656566;
+    font-weight: bold;
+}
+
+.lisTXTa_ctive{
+    color: #0c0e0f;
+}
+
+/* end header  */
+.container{
+    width: 1208px;
+    margin: 0 auto;
+}
+
+h2{
+    color: #202124;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.card{
+    width: 360px;
+    height: 350px;
+    background-color: #ffff;
+    margin-right: 40px;
+    display: inline-block;
+    vertical-align: top;
+}
+.photo{
+    position: relative;
+    display: inline-block;
+}
+.title{
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffff;
+    position: absolute;
+    top: 20%;
+    left:10%;
+}
+.text{
+    font-size: 13;
+    color: #A6ADB4;
+    margin: 70px 40px 40px;
+}
+.clock{
+    vertical-align: middle;
+    margin-left: 40px;
+    margin-right: 15px;
+    
+
+}
+.time{
+    font-size: 13;
+    color: #A6ADB4;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+/* start  section 2 */
+.right-group , .left-group{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.left-group{
+    margin-right: 30px;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffff;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50% , 50%);
+}
+
+.photo-bridge{
+    margin-bottom: 10px;
+}
+.middle-foto{
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+/* start footer  */
+.footer{
+    background-color: #A6ADB4;
+    width: 1208px;
+    height: 200px;
+    padding: 50px 90px 130px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.footer-logo{
+    color: #ffff;
+    font-size: 13px;
+    font-weight: bold;
+    margin-right: 50px;
+
+    
+}
+.footer-lists , .footer-txt{
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 60px;
+
+}
+a {
+    font-size: 13px;
+    font-weight: bold;
+    color: #CBD0D3;
+}
+.footer-txt{
+
+    font-size: 11;
+    color: #CBD0D3;
+}
+.footer_list{
+    display: inline-block;
+    margin-right: 4px;
+}
